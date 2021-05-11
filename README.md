@@ -13,7 +13,3 @@ Install depencies
 
 Start API:
 ````node server.js````
-
-Request with Postman:
-
-![](https://prnt.sc/12spuii)
